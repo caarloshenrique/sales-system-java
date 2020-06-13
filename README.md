@@ -11,7 +11,6 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [JasperReports Library](https://mvnrepository.com/artifact/net.sf.jasperreports/jasperreports/)
 {...}
 
-
 ## :clipboard: Pré-requisitos
 
 - [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
