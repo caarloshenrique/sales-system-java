@@ -8,6 +8,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
 - [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
 - [PostgreSQL](https://www.postgresql.org/)
+- [Jaspersoft](https://www.jaspersoft.com/)
 {...}
 
 ## :page_facing_up: Licença 
