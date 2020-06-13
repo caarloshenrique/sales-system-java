@@ -15,6 +15,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 ## :clipboard: Pré-requisitos
 
 - [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
+- [pgAdmin](https://www.pgadmin.org/)
 - [Jaspersoft](https://www.jaspersoft.com/)
 
 ## :page_facing_up: Licença 
