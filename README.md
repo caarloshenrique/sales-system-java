@@ -19,7 +19,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Jaspersoft](https://www.jaspersoft.com/)
 
 ## :fire: Instalação e execução
-Execute a classe [Main]|(/src/main/java/vendas/Main.java) localizada em `src/main/java/vendas/Main.java`
+Execute a classe [Main](/src/main/java/vendas/Main.java) localizada em `src/main/java/vendas/Main.java`
 
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
